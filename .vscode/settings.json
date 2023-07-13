@@ -1,0 +1,19 @@
+{
+  "cSpell.words": ["Vitesse"],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "vite.autoStart": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#f8f8f2",
+    "editorIndentGuide.activeBackground": "#f8f8f2",
+    "editorIndentGuide.background": "#44475a",
+    "activityBar.background": "#15340F",
+    "titleBar.activeBackground": "#1D4915",
+    "titleBar.activeForeground": "#F5FCF3"
+  }
+}
